@@ -7,9 +7,13 @@ The dataset also consists of information regarding: City, colony, meters, restro
 Team Members:
 
 Vicente Pliego
+
 Adriana Fajardo
+
 Benjamin Oliva
+
 Bernardo Gonzalez
+
 David Mariscal
 
 
