@@ -20,3 +20,6 @@ WebVisualizations/.DS-Store
 /CleanData/
 
 CleanData/
+
+# Keys
+api_keys_all.py
